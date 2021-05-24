@@ -1,2 +1,2 @@
-# Tarea-02
+# Tarea
 Exploración de datos
