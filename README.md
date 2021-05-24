@@ -1,2 +1,0 @@
-# Tarea
-Exploración de datos
